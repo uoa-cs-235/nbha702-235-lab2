@@ -1,3 +1,3 @@
 # nbha702-235-lab2
 
-Hi my name is Nisarag
+Hi my name is Nisarad
